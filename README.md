@@ -1,6 +1,8 @@
-# Mystore
+# mystore
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3. <br>
+Deploy on Firebase: https://mystore-b732a.firebaseapp.com <br>
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-xnvvxx) <br>
 
 ## Development server
 
